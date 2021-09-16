@@ -41,6 +41,7 @@ while screen_on:
                     print("Loading ....")
                     game_screen = MemoryGame(difficulty)
                     screen_on = Screen.Game
+                    print("Enjoy!")
         elif screen_on == Screen.Game and clicked(event):
             game_screen.proccess(cursor)
 
