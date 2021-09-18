@@ -1,6 +1,6 @@
 import config
 from gameinit import display, screen
-from GameSprites import Background, Button, Title
+from sprites import Background, Button, Title
 
 
 class WelcomePage:

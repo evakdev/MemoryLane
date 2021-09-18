@@ -5,7 +5,7 @@ import pygame
 
 import config
 from gameinit import display, screen
-from GameSprites import Back, Background, Front, Lines
+from sprites import Back, Background, Front, Lines
 from tools import random_picker
 
 
