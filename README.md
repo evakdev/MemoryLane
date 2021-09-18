@@ -1,2 +1,3 @@
 # memory-lane-game
-To start the game, run run.py!
+Before playing, copy some family photos in images/backgrounds
+run run.py to start the game!
